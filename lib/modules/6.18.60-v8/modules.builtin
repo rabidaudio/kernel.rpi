@@ -562,6 +562,7 @@ kernel/drivers/i2c/busses/i2c-bcm2708.ko
 kernel/drivers/i2c/busses/i2c-bcm2835.ko
 kernel/drivers/i2c/busses/i2c-brcmstb.ko
 kernel/drivers/media/i2c/ir-kbd-i2c.ko
+kernel/drivers/media/i2c/ov5647.ko
 kernel/drivers/media/mc/mc.ko
 kernel/drivers/media/v4l2-core/v4l2-async.ko
 kernel/drivers/media/v4l2-core/v4l2-fwnode.ko
@@ -708,6 +709,11 @@ kernel/drivers/media/rc/keymaps/rc-xbox-dvd.ko
 kernel/drivers/media/rc/keymaps/rc-zx-irdec.ko
 kernel/drivers/media/rc/rc-core.ko
 kernel/drivers/media/cec/core/cec.ko
+kernel/drivers/media/common/videobuf2/videobuf2-common.ko
+kernel/drivers/media/common/videobuf2/videobuf2-dma-contig.ko
+kernel/drivers/media/common/videobuf2/videobuf2-memops.ko
+kernel/drivers/media/common/videobuf2/videobuf2-v4l2.ko
+kernel/drivers/media/platform/broadcom/bcm2835-unicam.ko
 kernel/drivers/pps/pps_core.ko
 kernel/drivers/ptp/ptp.ko
 kernel/drivers/ptp/ptp_kvm.ko

@@ -1078,6 +1078,9 @@ CONFIG_USB=y
 CONFIG_VIDEO_DEV=y
 CONFIG_USB_VIDEO_CLASS=m
 
+CONFIG_VIDEO_BCM2835_UNICAM=y
+CONFIG_VIDEO_OV5647=y
+
 # Explicitly disable kernel module compression, which the Raspberry Pi
 # config enables by default: In gokrazy, we have compression at the
 # SquashFS level, so any further compression is useless.

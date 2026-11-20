@@ -161,9 +161,6 @@ kernel/drivers/media/dvb-frontends/zd1301_demod.ko
 kernel/drivers/media/dvb-frontends/zl10036.ko
 kernel/drivers/media/dvb-frontends/zl10039.ko
 kernel/drivers/media/dvb-frontends/zl10353.ko
-kernel/drivers/media/common/videobuf2/videobuf2-common.ko
-kernel/drivers/media/common/videobuf2/videobuf2-memops.ko
-kernel/drivers/media/common/videobuf2/videobuf2-v4l2.ko
 kernel/drivers/media/common/videobuf2/videobuf2-vmalloc.ko
 kernel/drivers/media/common/uvc.ko
 kernel/drivers/media/usb/uvc/uvcvideo.ko
